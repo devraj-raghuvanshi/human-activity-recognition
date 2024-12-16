@@ -4,7 +4,7 @@ This project implements a machine learning pipeline for Human Activity Recogniti
 
 ## Overview
 
-The project focuses on building a subject-independent model that can generalize across different users. The dataset used in this project includes data from 22 participants, each wearing two 3-axial Axivity AX3 accelerometers placed on the thigh and lower back. The model aims to predict activities like walking, running, cycling, and more, based on accelerometer readings.
+The project focuses on building a subject-independent model that can generalize across different users. The dataset used in this project [Human Activity Recognition Trondheim (HARTH)](https://archive.ics.uci.edu/dataset/779/harth) includes data from 22 participants, each wearing two 3-axial Axivity AX3 accelerometers placed on the thigh and lower back. The model aims to predict activities like walking, running, cycling, and more, based on accelerometer readings.
 
 ## Setup
 
